@@ -1,7 +1,7 @@
 
 # Estructura de las atestaciones
 
-Tomando como referencia la implementación de las attestations o credentials de la implementación original de [Uport](https://whitepaper.uport.me), definiremos un attestation como una estructura JSON que contiene diferentes atributos y que incluye valores 
+Tomando como referencia la implementación de las *attestations* o *credentials* de la implementación original de [Uport](https://whitepaper.uport.me), definiremos un *attestation* como una estructura JSON que contiene diferentes atributos y que incluye los valores validados.
 
 	[ 
 		{
